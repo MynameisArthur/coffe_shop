@@ -1,1 +1,3 @@
-node_modules
+coffe-shop/node_modules
+coffe-shop/.env
+coffe-shop/package-lock.json

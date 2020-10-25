@@ -1,5 +1,9 @@
 {
     "title": "Joe's Coffee House",
-    "description":
-        "Welcome to my Coffee House! I hope you enjoy my broad selection of premium coffee from all over the world."
+    "description": "Welcome to my Coffee House! I hope you enjoy my broad selection of premium coffee from all over the world.",
+    "hours": [
+        {"day": "Monday - Friday", "time": "6am - 10pm"},
+        {"day": "Saturday", "time": "7am - 11pm"},
+        {"day": "Sunday", "time": "7am - 9pm"}
+    ]
 }

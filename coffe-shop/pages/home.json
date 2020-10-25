@@ -7,7 +7,7 @@
     "about": {
         "header": "Welcome to Joe's Coffee House.",
         "subtext": "Welcome to our Coffee House! We hope you enjoy",
-        "bg_image": "/images/barista-2.jpg",
+        "bg_image": "/images/barista2.jpg",
         "images": [
             {
                 "image": "/images/coffee.jpg",

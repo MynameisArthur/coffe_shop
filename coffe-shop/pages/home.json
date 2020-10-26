@@ -22,5 +22,24 @@
                 "caption": "Tea"
             }
         ]
+    },
+    "team": {
+        "subheader": "Team",
+        "header": "Meet The Team",
+        "img_background": "/images/caffe.jpg",
+        "members": [
+            {
+                "name": "Joe",
+                "image": "/images/person_1.jpg",
+                "quote": "Coffe is my passion. Joe's Coffe House gives customers experience of quality coffe in cozy environment.",
+                "position": "co-owner"
+            },
+            {
+                "name": "Akram",
+                "image": "/images/person_2.jpg",
+                "quote": "Relaxing with cup of coffe or tea is very important for me. I want to create the most pleasant experience for our customers.",
+                "position": "co-owner"
+            }
+        ]
     }
 }

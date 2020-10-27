@@ -41,5 +41,10 @@
                 "position": "co-owner"
             }
         ]
+    },
+    "order": {
+        "subheader": "Order",
+        "header": "Place an Order",
+        "img_background": "/images/barista3.jpg"
     }
 }
